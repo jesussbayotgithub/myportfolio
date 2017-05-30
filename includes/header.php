@@ -7,6 +7,7 @@
     <title>Bootstrap 101 Template</title>
     <link href="/css/framework.css" rel="stylesheet">
     <link href="/css/styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister|Martel|Open+Sans" rel="stylesheet">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script type="text/javascript" src="/js/bootstrap.js"></script>
     <script type="text/javascript" src="/js/wow.js"></script>

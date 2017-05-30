@@ -1,0 +1,13 @@
+@import "custom/variables";
+@import "custom/common";
+
+html{
+  body{
+
+    @extend .block;
+    margin: 0;
+    padding: 0;
+
+  }
+}
+

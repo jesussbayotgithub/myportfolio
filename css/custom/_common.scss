@@ -1,0 +1,15 @@
+.relative-left{  position: relative;  float: left;  }
+.relative-right{  position: relative;  float: right;  }
+.absolute-left{  position: relative;  float: left;  left: 0;  }
+.absolute-right{  position: relative;  float: right;  right: 0;  }
+.clear-margin{ margin: 0; }
+.clear-padding{ padding: 0; }
+.center-block{  position: relative; margin: 0 auto; float: none;  }
+.block{  @extend .relative-left;  width: 100%;  }
+.transition_1{
+  -webkit-font-smoothing: antialiased !important;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
